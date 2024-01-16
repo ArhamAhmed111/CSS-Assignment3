@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu&display=swap');
+*{
+    font-family: sans-serif;
+}
+h1{
+    color: rgb(1, 1, 160);
+    text-decoration: underline;
+    margin-left: 500px;
+    font-size: larger;
+}
+.italic{
+    font-style: italic;
+    font-weight: bold;
+}
+.fifty{
+    font-weight: 500;
+    font-weight: bold;
+}
+.bolder{
+    font-weight: 800;
+}
+.bold{
+    font-weight: 600;
+}
+.quotes{
+    font-family: 'Noto Nastaliq Urdu', serif;
+}
